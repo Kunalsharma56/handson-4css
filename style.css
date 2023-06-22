@@ -129,6 +129,8 @@ ul{
     background: rgb(241, 150, 21);
     grid-column-start: 1;
     grid-column-end: 4;
+    height: 190px;
+    font-size: 2rem;
 }
 
 .gridItem7{
